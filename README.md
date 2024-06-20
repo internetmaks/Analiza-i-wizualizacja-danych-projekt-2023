@@ -1,5 +1,5 @@
 # Analiza-i-wizualizacja-danych-projekt-2023
-1 Znajdź zestaw danych
+**1 Znajdź zestaw danych**
 W Google znajdź zestaw danych, słowa kluczowe to: ’dataset’ oraz ’csv’. Minimalnie powinien
 składać się z kilkunastu kategorii oraz kilkudziesięciu obserwacji, w sumie 400-1000 pól. Nie może
 zawierać jedynie jednego typu danych (ilościowe, porządkowe, nominalne). Różnorodny zbiór da-
