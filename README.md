@@ -4,7 +4,7 @@ Kompleksowa analiza statystyczna danych piłkarskich z wykorzystaniem testów st
 
 ## 📊 Opis projektu
 
-Ten projekt zawiera szczegółową analizę danych piłkarskich pochodzących z kaggle, skupiającą się na następujących pytaniach badawczych:
+Ten projekt zawiera szczegółową analizę danych piłkarskich pochodzących z [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores/data?select=player_valuations.csv), skupiającą się na następujących pytaniach badawczych:
 
 1. **Wartość rynkowa według narodowości** - Piłkarze z jakiego kraju są najbardziej wartościowi?
 2. **Wzrost według pozycji** - Jaki jest średni wzrost zawodników na różnych pozycjach w Premier League?
